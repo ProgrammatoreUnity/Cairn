@@ -5,6 +5,7 @@
 [Versione italiana](README.it.md)
 
 Cairn is a Windows app that keeps everything about a project in one place: the tasks to do, the plan over time, your sketches and your notes. It works completely offline. There is no cloud, no server and no online account, so your work stays on your PC.
+Warning: Part of the README was written by AI and may contain translation errors.
 
 ## Getting started
 
