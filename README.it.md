@@ -4,13 +4,21 @@
 
 [English version](README.md)
 
-Cairn è un'app per Windows che tiene in un unico posto tutto ciò che riguarda un progetto: le cose da fare, il piano nel tempo, i tuoi schizzi e i tuoi appunti. Funziona completamente offline. Non c'è cloud, non c'è server e non c'è account online: il tuo lavoro resta sul tuo PC.
+Cairn è un'app per Windows che raccoglie in un unico posto tutto ciò che riguarda un progetto: le task, la roadmap, la documentazione, delle board su cui fare disegni e prendere appunti. Funziona completamente offline, niente dati rubati di nascosto e niente aggiornamenti a sorpresa che rendono tutto a pagamento!
+Attenzione: parte del readme è stato scritto dall'IA e potrebbe contenere errori di traduzione.
 
 ## Per iniziare
 
 1. Fai clic destro su `Cairn.exe` e scegli **Esegui come amministratore**. Cairn ha bisogno dei permessi di amministratore per funzionare. Non c'è nulla da installare.
-2. La prima volta Cairn ti chiede di creare un account: scegli **Username** e **Password**. Vedi [Account](#account) più sotto.
+2. La prima volta Cairn ti chiede di creare un account: scegli **Username** e **Password**. Vedi [Account](#account) più giù.
 3. Clicca **New Project**, dai un nome al progetto e aprilo con un doppio clic.
+
+Alternativa per non dover sempre avviare come amministratore:
+1. Click destro
+2. Proprietà
+3. Compatibilità
+4. "Esegui questo programma come amministratore"
+Facendo così si avvierà automaticamente come amministratore.
 
 Tutto quello che fai viene salvato in automatico. Non c'è nessun pulsante Salva da ricordare.
 
